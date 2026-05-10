@@ -10,6 +10,7 @@ The full analysis, including data cleaning, pivot tables, KPI development, and d
 
 ## Dashboard Preview
 
+![Dashboard Preview](dashboard_preview.png)
 
 ## Key Findings
 
